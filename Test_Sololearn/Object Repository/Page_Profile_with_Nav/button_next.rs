@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_next</name>
+   <tag></tag>
+   <elementGuidId>76d6267f-2644-4d9f-b275-5d46331c3a97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;main&quot;]/nav/div/div[3]/div[2]/div/div[1]/div[1]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>b5d35e41-1f3f-4057-baeb-40cd9e6890d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1705592821724</value>
+      <webElementGuid>5b1b77e4-8563-4628-96cf-74e4ba6d0cc4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

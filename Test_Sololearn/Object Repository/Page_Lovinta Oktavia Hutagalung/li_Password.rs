@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Password</name>
+   <tag></tag>
+   <elementGuidId>b5f132e1-bbfd-4135-9b6f-bb67205376dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.sl-p-edit-profile__nav-item.sl-p-edit-profile__nav-item--inactive</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div[2]/div/div/div[2]/div/div[2]/div/ul/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>46b7b0ca-ef88-4359-8ea7-958c0feabada</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sl-p-edit-profile__nav-item sl-p-edit-profile__nav-item--inactive</value>
+      <webElementGuid>4958c5d1-0564-411a-9810-b590b3071093</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Password</value>
+      <webElementGuid>0fc6dbbe-9828-4f4c-a2d2-c49d3cfe37e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[2]/div[1]/div[@class=&quot;sl-profile&quot;]/div[@class=&quot;sl-modal edit-profile&quot;]/div[@class=&quot;sl-modal__container edit-profile&quot;]/div[@class=&quot;sl-modal__content edit-profile&quot;]/div[@class=&quot;sl-p-edit-profile&quot;]/ul[@class=&quot;sl-p-edit-profile__nav&quot;]/li[@class=&quot;sl-p-edit-profile__nav-item sl-p-edit-profile__nav-item--inactive&quot;]</value>
+      <webElementGuid>0c21081f-f457-4e0a-a36c-68a615fd9abb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div[2]/div/div/div[2]/div/div[2]/div/ul/li[2]</value>
+      <webElementGuid>ba768108-cfe9-4ab2-ab1d-b530b93988e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]</value>
+      <webElementGuid>d55da62d-1c9c-41b6-b6e7-135222eff5f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Password' or . = 'Password')]</value>
+      <webElementGuid>addf6dba-4dcb-4388-bafb-0075a4e0a311</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

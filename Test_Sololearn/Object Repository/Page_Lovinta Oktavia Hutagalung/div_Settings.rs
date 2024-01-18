@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Settings</name>
+   <tag></tag>
+   <elementGuidId>f9d5ae35-5167-4efd-8478-bf04b6deed2c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/nav/div/div[3]/div[2]/div/div/div[2]/div[2]/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>efe7717a-e4eb-4be2-a92f-18c346079b8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sl-user-settings__profile__settings sl-user-settings__profile--item</value>
+      <webElementGuid>ffea8d9a-4d9b-44a9-8e01-02920683852e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Settings</value>
+      <webElementGuid>8231ec64-8727-4826-969a-64821cda7dae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/nav[@class=&quot;sl-navbar light&quot;]/div[@class=&quot;sl-navbar__container&quot;]/div[@class=&quot;sl-navbar__content active&quot;]/div[@class=&quot;sl-navbar__action-wrapper&quot;]/div[@class=&quot;sl-navigation-actions&quot;]/div[@class=&quot;sl-navigation-actions__settings active&quot;]/div[@class=&quot;sl-user&quot;]/div[@class=&quot;sl-user__mobile&quot;]/div[@class=&quot;sl-user-settings&quot;]/div[@class=&quot;sl-user-settings__profile&quot;]/div[@class=&quot;sl-user-settings__profile__settings sl-user-settings__profile--item&quot;]</value>
+      <webElementGuid>4813fa13-c1f9-4834-a5b7-5cf75a15e114</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/nav/div/div[3]/div[2]/div/div/div[2]/div[2]/div/div[3]/div</value>
+      <webElementGuid>dae6543f-32fc-4b6b-ab9d-e97170d6ec04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/div</value>
+      <webElementGuid>092f0ec1-3eec-462d-811c-c9dff3d1c460</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Settings' or . = 'Settings')]</value>
+      <webElementGuid>031b9af1-8aaa-41bc-81dd-b507c4a9a2c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

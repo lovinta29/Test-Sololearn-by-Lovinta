@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Lovinta Oktavia Hutagalung1 Following0 _6b6d99</name>
+   <tag></tag>
+   <elementGuidId>eaaab77d-e39c-4623-9287-9a6bfac3e099</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sl-p-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2ae51c55-d9bf-4b1f-8805-919f570bddf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sl-p-container</value>
+      <webElementGuid>ff044a26-44d1-48e2-8b51-e0389139989f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lovinta Oktavia Hutagalung1 Following0 Followers0Indonesia·Lvl 1Courses ProgressIntroduction to JavaScriptIn Progress</value>
+      <webElementGuid>f87f799e-b51a-4b2f-a91e-c5aab039837c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[2]/div[1]/div[@class=&quot;sl-profile&quot;]/div[@class=&quot;sl-p-container&quot;]</value>
+      <webElementGuid>2dd4815a-2adf-4757-a711-d398b649aa98</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div[2]/div/div/div</value>
+      <webElementGuid>0cfe92ca-bdb6-40af-9cb0-d77b8b1e6414</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div</value>
+      <webElementGuid>11642d6f-eb7d-480b-93a0-d16de41abe5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Lovinta Oktavia Hutagalung1 Following0 Followers0Indonesia·Lvl 1Courses ProgressIntroduction to JavaScriptIn Progress' or . = 'Lovinta Oktavia Hutagalung1 Following0 Followers0Indonesia·Lvl 1Courses ProgressIntroduction to JavaScriptIn Progress')]</value>
+      <webElementGuid>32f17f8e-d150-4900-aada-79b1a4c54cf0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

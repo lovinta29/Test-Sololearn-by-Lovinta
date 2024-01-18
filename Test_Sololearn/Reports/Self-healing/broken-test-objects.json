@@ -1,0 +1,24 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Lovinta Oktavia Hutagalung/div_Settings",
+      "brokenLocator": "//div[@id\u003d\u0027main\u0027]/nav/div/div[3]/div[2]/div/div/div[2]/div[2]/div/div[3]/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/div/div[3]/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Sololearn Learn to Code/div_sl-hamburger__button",
+      "brokenLocator": "//div[@id\u003d\u0027main\u0027]/div[2]/div/div/div/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/div[2]/div/div/div/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    }
+  ]
+}

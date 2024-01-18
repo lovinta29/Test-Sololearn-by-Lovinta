@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Log Out</name>
+   <tag></tag>
+   <elementGuidId>857aa918-c3f7-42bb-b77d-92db501cd7f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/nav/div/div[3]/div[2]/div/div/div[2]/div[2]/div/div[3]/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a578fabf-0969-41b4-b6e6-0d289b6d002d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sl-user-settings__profile__logout sl-user-settings__profile--item</value>
+      <webElementGuid>2e58fc97-f63c-457f-ab00-9cfc45673d0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log Out</value>
+      <webElementGuid>120fdc4b-add0-47be-8db6-c2a628e75da0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/nav[@class=&quot;sl-navbar light&quot;]/div[@class=&quot;sl-navbar__container&quot;]/div[@class=&quot;sl-navbar__content active&quot;]/div[@class=&quot;sl-navbar__action-wrapper&quot;]/div[@class=&quot;sl-navigation-actions&quot;]/div[@class=&quot;sl-navigation-actions__settings active&quot;]/div[@class=&quot;sl-user&quot;]/div[@class=&quot;sl-user__mobile&quot;]/div[@class=&quot;sl-user-settings&quot;]/div[@class=&quot;sl-user-settings__profile&quot;]/div[@class=&quot;sl-user-settings__profile__logout sl-user-settings__profile--item&quot;]</value>
+      <webElementGuid>4f351088-688f-4274-9a40-b10d46632603</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/nav/div/div[3]/div[2]/div/div/div[2]/div[2]/div/div[3]/div[3]</value>
+      <webElementGuid>a8fcbe07-ab32-47a3-82ba-27e822e136fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/div[3]</value>
+      <webElementGuid>a1ce48ac-5226-42ea-9040-dae3bc171c2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Log Out' or . = 'Log Out')]</value>
+      <webElementGuid>dc9189eb-98fc-49e5-866f-bbf1223953a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
